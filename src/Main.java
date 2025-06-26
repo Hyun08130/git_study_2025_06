@@ -9,7 +9,11 @@ public class Main {
         for (int i = 1; i <= 5; i++) {
 
         }
+<<<<<<< HEAD
 
         System.out.println("Im C");
+=======
+        System.out.println("Im d");
+>>>>>>> d
     }
 }
